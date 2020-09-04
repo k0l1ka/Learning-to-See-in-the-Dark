@@ -1,4 +1,4 @@
-This little research is made under my internship at IITP (http://iitp.ru/en/science) and is based on two articles:
+This research is made under my internship at IITP (http://iitp.ru/en/science) and is based on two articles:
 
 1) https://arxiv.org/abs/1805.01934
 
