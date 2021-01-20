@@ -11,7 +11,7 @@ input_dir = './../../dataset/Sony_full/short_full/'
 gt_dir = './../../dataset/Sony_full/long_full/'
 
 if len(sys.argv) == 1:
-    sys.exit("Pass the number of scenes in train set as an argument for puthon script!")
+    sys.exit("Pass the number of scenes in train set as an argument for python script!")
 # print(sys.argv[1])
 size = int(sys.argv[1])
 
