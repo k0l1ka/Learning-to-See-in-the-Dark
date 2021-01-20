@@ -1,5 +1,3 @@
-# this code will be ran in tf2
-
 from __future__ import division
 import os, time, sys
 import tensorflow as tf
@@ -13,7 +11,7 @@ input_dir = './../../dataset/Sony_full/short_full/'
 gt_dir = './../../dataset/Sony_full/long_full/'
 
 if len(sys.argv) == 1:
-    sys.exit("Укажи число сцен в трейн сете после имени скрипта.ру!")
+    sys.exit("Pass the number of scenes in train set as an argument for python script!")
 # print(sys.argv[1])
 size = int(sys.argv[1])
 
